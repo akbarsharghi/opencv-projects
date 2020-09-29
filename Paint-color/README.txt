@@ -1,1 +1,0 @@
-Simple paint with adjustable color.
